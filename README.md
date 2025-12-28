@@ -1,6 +1,8 @@
 # El-tren-del-dilema-objetos-
 Un proyecto hecho en haxe que puedes modificar que es de codigo abierto
 
+se nesesita haxe 4.3.7
+
 hay switch que hace que puedas modificar las opciones, hay cuatro, dos de objetos y dos de modificadores
 
 ejmplos:
@@ -33,3 +35,4 @@ ejmplos:
 los case y un numero son los que hay de posibilades, 
 
 el randomNum = Math.floor(Math.random() * 21); tiene un nimero y lo teneis que modificar para hacer que funcione, si por ejemplo pongo 22 objetos tengo que poner en esa linea de codigo 23, solo se le aumenta un numero
+
